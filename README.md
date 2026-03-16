@@ -17,3 +17,5 @@ Projeto prático de QA Manual usando o SauceDemo como sistema sandbox.
 - docs/
 - evidencias/
 - bdd/
+- test-cases/
+- bug-reports/
